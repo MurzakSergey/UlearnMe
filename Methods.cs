@@ -18,7 +18,7 @@ namespace ConsoleApp2
         }
         static void Main(string[] args)
         {
-            string Lola = "Lola";
+            string Lola = "Lolalalala";
             double millioni = 10000000;
             GetGreetingMessage(Lola, millioni);
             Console.WriteLine(GetGreetingMessage(Lola, millioni));
