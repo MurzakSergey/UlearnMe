@@ -1,0 +1,8 @@
+F:\toStudy\C#\ULearnMe\KindEmployer\KindEmployer\bin\Debug\KindEmployer.exe.config
+F:\toStudy\C#\ULearnMe\KindEmployer\KindEmployer\bin\Debug\KindEmployer.exe
+F:\toStudy\C#\ULearnMe\KindEmployer\KindEmployer\bin\Debug\KindEmployer.pdb
+F:\toStudy\C#\ULearnMe\KindEmployer\KindEmployer\obj\Debug\KindEmployer.csproj.AssemblyReference.cache
+F:\toStudy\C#\ULearnMe\KindEmployer\KindEmployer\obj\Debug\KindEmployer.csproj.SuggestedBindingRedirects.cache
+F:\toStudy\C#\ULearnMe\KindEmployer\KindEmployer\obj\Debug\KindEmployer.csproj.CoreCompileInputs.cache
+F:\toStudy\C#\ULearnMe\KindEmployer\KindEmployer\obj\Debug\KindEmployer.exe
+F:\toStudy\C#\ULearnMe\KindEmployer\KindEmployer\obj\Debug\KindEmployer.pdb

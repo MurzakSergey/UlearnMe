@@ -1,0 +1,8 @@
+F:\toStudy\C#\ULearnMe\searchingMethods\searchingMethods\bin\Debug\searchingMethods.exe.config
+F:\toStudy\C#\ULearnMe\searchingMethods\searchingMethods\bin\Debug\searchingMethods.exe
+F:\toStudy\C#\ULearnMe\searchingMethods\searchingMethods\bin\Debug\searchingMethods.pdb
+F:\toStudy\C#\ULearnMe\searchingMethods\searchingMethods\obj\Debug\searchingMethods.csproj.AssemblyReference.cache
+F:\toStudy\C#\ULearnMe\searchingMethods\searchingMethods\obj\Debug\searchingMethods.csproj.SuggestedBindingRedirects.cache
+F:\toStudy\C#\ULearnMe\searchingMethods\searchingMethods\obj\Debug\searchingMethods.csproj.CoreCompileInputs.cache
+F:\toStudy\C#\ULearnMe\searchingMethods\searchingMethods\obj\Debug\searchingMethods.exe
+F:\toStudy\C#\ULearnMe\searchingMethods\searchingMethods\obj\Debug\searchingMethods.pdb
